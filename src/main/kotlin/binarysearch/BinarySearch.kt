@@ -1,25 +1,5 @@
 package binarysearch
 
-fun main() {
-    println("---Binary search example inputting a list (1, 5, 8, 9, 10, 11, 14) and searching for 100---")
-    BinarySearch.binarySearch(
-        list = listOf(1, 5, 8, 9, 10, 11, 14),
-        item = 5
-    )
-    println()
-    println("---Binary search example inputting a list (20, 25, 58, 88, 99, 100) and searching for 88---")
-    BinarySearch.binarySearch(
-        list = listOf(20, 25, 58, 88, 99, 100),
-        item = 88
-    )
-    println()
-    println("---Binary search example inputting a list (100, 101, 199, 200, 222) and searching for 700---")
-    BinarySearch.binarySearch(
-        list = listOf(100, 101, 199, 200, 222),
-        item = 88
-    )
-}
-
 /**
  * 1) A binary search only works on a sorted array
  * 2) The algorithm works by finding the middle of an array, checking if that value is too high
@@ -74,4 +54,24 @@ object BinarySearch {
         return -1
     }
 
+}
+
+fun main() {
+    println("---Binary search example inputting a list (1, 5, 8, 9, 10, 11, 14) and searching for 100---")
+    BinarySearch.binarySearch(
+        list = listOf(1, 5, 8, 9, 10, 11, 14),
+        item = 5
+    )
+    println()
+    println("---Binary search example inputting a list (20, 25, 58, 88, 99, 100) and searching for 88---")
+    BinarySearch.binarySearch(
+        list = listOf(20, 25, 58, 88, 99, 100),
+        item = 88
+    )
+    println()
+    println("---Binary search example inputting a list (100, 101, 199, 200, 222) and searching for 700---")
+    BinarySearch.binarySearch(
+        list = listOf(100, 101, 199, 200, 222),
+        item = 88
+    )
 }
