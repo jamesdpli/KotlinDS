@@ -8,4 +8,5 @@
 
 ### <ins>Visual</ins>
 ![selection-sort.png](selection-sort.png)
-From https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/tutorial/
+
+Image from https://www.hackerearth.com/practice/algorithms/sorting/selection-sort/tutorial/

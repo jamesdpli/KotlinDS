@@ -19,4 +19,5 @@
 
 ### <ins>Visual</ins>
 ![binary-search-image.png](binary-search.png)
-From https://www.computerhope.com/jargon/b/binary-search.htm
+
+Image from https://www.computerhope.com/jargon/b/binary-search.htm
