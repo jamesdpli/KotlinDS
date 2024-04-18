@@ -1,4 +1,4 @@
-# Binary Search quick facts
+# Binary Search Breakdown
 
 **This algorithm is log<sub>2</sub>n time**
 
