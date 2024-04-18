@@ -13,5 +13,8 @@
 4) If it is greater than the item we know that all elements to the right of the middle are too high, so we can update our high pointer index to the middle - 1.
 5) If it is less than the item we know that all elements to the left of the middle are too high, so we can update our low pointer index to the middle + 1.
 
+## To see Code
+[Binary search Code](BinarySearch.kt)
+
 ## Visual
 ![binary-search-image.png](binary-search-image.png)
