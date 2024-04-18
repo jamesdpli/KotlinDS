@@ -26,7 +26,11 @@ object BinarySearch {
          */
         while (low <= high) {
 
-            // Represents the middle of the array
+            /**
+             * Represents the middle of the array
+             * An edge case exists where when you add two numbers the number can become too large to avoid this you can
+             * also implement finding the middle point like this ((high - low)/2) + low
+             */
             val mid = (low + high) / 2
 
             // Guess the middle index of the array
