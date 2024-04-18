@@ -8,7 +8,7 @@ package binarysearch
  * 3) This is log base 2 n in the worst case scenario
  * 4) A list with 128 entries will take at max 7 guesses, double the size to 256 it will take at max 8 guesses!
  */
-fun binarySearch(list: List<Int>, item: Int): Int {
+private fun binarySearch(list: List<Int>, item: Int): Int {
 
     // First index of the list
     var low = 0
