@@ -18,4 +18,5 @@
 5) If it is less than the item we know that all elements to the left of the middle are too high, so we can update our low pointer index to the middle + 1.
 
 ### <ins>Visual</ins>
-![binary-search-image.png](binary-search-image.png)
+![binary-search-image.png](binary-search.png)
+From https://www.computerhope.com/jargon/b/binary-search.htm
