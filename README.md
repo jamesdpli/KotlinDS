@@ -2,6 +2,7 @@
 
 ### Computer Science Topics
 - [Big O](src/main/kotlin/bigonotation)
+- [Recursion](src/main/kotlin/recursion)
 
 ### Data Structures
 - Lists
