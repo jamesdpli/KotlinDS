@@ -1,4 +1,4 @@
-package binarysearch
+package algorithms.binarysearch
 
 /**
  * 1) A binary search only works on a sorted array

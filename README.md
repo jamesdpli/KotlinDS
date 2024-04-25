@@ -1,8 +1,8 @@
 # KotlinDS
 
 ### Computer Science Topics
-- [Big O](src/main/kotlin/bigonotation)
-- [Recursion](src/main/kotlin/recursion)
+- [Big O](src/main/kotlin/computersciencetopics/bigonotation)
+- [Recursion](src/main/kotlin/computersciencetopics/recursion)
 
 ### Data Structures
 - Lists
@@ -10,5 +10,5 @@
   - [Link List](src/main/kotlin/lists/linklist/readme.md)
 
 ### Algorithms
-- [Binary Search](src/main/kotlin/binarysearch)
-- [Selection Sort](src/main/kotlin/selectionsort)
+- [Binary Search](src/main/kotlin/algorithms/binarysearch)
+- [Selection Sort](src/main/kotlin/algorithms/selectionsort)

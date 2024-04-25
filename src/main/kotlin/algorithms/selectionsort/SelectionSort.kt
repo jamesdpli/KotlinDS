@@ -1,4 +1,4 @@
-package selectionsort
+package algorithms.selectionsort
 
 private fun findSmallestIndexInList(list: List<Int>): Int {
 
