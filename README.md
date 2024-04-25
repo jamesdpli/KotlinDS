@@ -5,8 +5,8 @@
 
 ### Data Structures
 - Lists
-  - [Array](src/main/kotlin/binarysearch)
-  - [Link List](src/main/kotlin/selectionsort)
+  - [Array](src/main/kotlin/lists/array/readme.md)
+  - [Link List](src/main/kotlin/lists/linklist/readme.md)
 
 ### Algorithms
 - [Binary Search](src/main/kotlin/binarysearch)
