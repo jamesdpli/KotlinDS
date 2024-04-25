@@ -1,4 +1,4 @@
-# Selection Sort Breakdown
+# Selection Sort
 
 ### <ins>Code</ins>
 [Selection Sort Code](SelectionSort.kt)

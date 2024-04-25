@@ -1,4 +1,4 @@
-# Array Breakdown
+# Array
 
 ### <ins>Explanation</ins>
 

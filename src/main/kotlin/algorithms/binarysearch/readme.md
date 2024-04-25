@@ -1,4 +1,4 @@
-# Binary Search Breakdown
+# Binary Search
 
 ### <ins>Code</ins>
 [Binary search Code](BinarySearch.kt)

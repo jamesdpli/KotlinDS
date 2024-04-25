@@ -1,4 +1,4 @@
-# Linked List Breakdown
+# Linked List
 
 ### <ins>Explanation</ins>
 
