@@ -1,4 +1,4 @@
-package lists.linklist
+package datastructures.lists.linklist
 
 /**
  * Do not use this, this is a very simple example for my personal use when thinking about a linked list
