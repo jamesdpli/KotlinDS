@@ -13,7 +13,7 @@
 - Graphs
   - [Tree](src/main/kotlin/datastructures/graph/tree/readme.md)
   - [Directed/Undirected graphs](src/main/kotlin/datastructures/graph/udgraphs/readme.md)
- - [Hashmaps](src/main/kotlin/datastructures/hashamp/readme.md)
+ - [Hashmaps](src/main/kotlin/datastructures/hashmap/readme.md)
 
 ### Algorithms
 - [Binary Search](src/main/kotlin/algorithms/binarysearch)
