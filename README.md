@@ -11,9 +11,8 @@
   - [Link List](src/main/kotlin/datastructures/lists/linklist/readme.md)
   - [Stack](src/main/kotlin/datastructures/lists/stack/readme.md)
 - Graphs
-  - [Tree](src/main/kotlin/datastructures/tree/readme.md)
-  - [Directed/Undirected graphs](src/main/kotlin/datastructures/udgraphs/readme.md)
-
+  - [Tree](src/main/kotlin/datastructures/graph/tree/readme.md)
+  - [Directed/Undirected graphs](src/main/kotlin/datastructures/graph/udgraphs/readme.md)
  - [Hashmaps](src/main/kotlin/datastructures/hashamp/readme.md)
 
 ### Algorithms
