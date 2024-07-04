@@ -1,5 +1,8 @@
 # Linked List
 
+### <ins>Code</ins>
+[Simple Link List Code](SimpleLinkedList.kt)
+
 ### <ins>Explanation</ins>
 
 1) Link lists are (usually) one type
